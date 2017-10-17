@@ -12,6 +12,8 @@ The Database File Is Present in \db directory
 
 All Database credentials and social apps credentails are present in \login\credentials.php file
 
+Feel free to customize
+
 ```
 
 #### Queries, Feedback and Contributions
